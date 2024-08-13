@@ -4,7 +4,7 @@
   "description": "Weather CLI is a City based weather CLI.",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/OfficialAlexCoder/WeatherCLI"
   },
   "main": "index.js",
   "scripts": {
