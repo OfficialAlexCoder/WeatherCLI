@@ -1,0 +1,22 @@
+{
+  "name": "weathercli",
+  "version": "1.0.0",
+  "description": "Weather CLI is a City based weather CLI.",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "bin": {
+    "weathercli": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
